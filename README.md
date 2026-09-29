@@ -23,6 +23,8 @@ The target variable is:
 
 **`annual_revenue`**
 
+The dataset is loaded from https://www.kaggle.com/datasets/abdallahwagih/business-revenue-regression-dataset/data
+
 ## 🔍 Exploratory Data Analysis
 
 The dataset was initially explored using:
